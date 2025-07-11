@@ -1,0 +1,8 @@
+downscaling-framework/
+├── model.py                # Placeholder for model architecture
+├── train.py                # Placeholder training loop
+├── data_loader.py          # Data loading template
+├── utils.py                # Utilities (e.g., loss functions, schedulers)
+├── config.py               # Configuration settings (optional)
+├── requirements.txt        # Python dependencies
+└── README.md               # Project description and instructions

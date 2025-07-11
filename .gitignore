@@ -1,0 +1,63 @@
+# ------------------------
+# Python cache and metadata
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+*.pyd
+*.pyo
+*.pkl
+*.log
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+env_old/
+
+# PyCharm project files
+.idea/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Test or temporary output
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Model outputs and intermediate results
+/outputs/
+/checkpoints/
+/runs/
+/models/
+/logs/
+/__temp__/
+
+# Data files (optional: you can version-control sample data if needed)
+*.tif
+*.xlsx
+*.csv
+*.h5
+*.npz
+*.npy
+
+# Cache folders
+.cache/
+.history/
+.mypy_cache/
+.pytest_cache/
+.pylint.d/
+
+# VSCode folders (if someone uses VSCode)
+.vscode/
